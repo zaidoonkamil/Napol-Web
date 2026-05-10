@@ -1,22 +1,7 @@
 export const portfolioItems = [
+
   {
     id: 1,
-    category: "app",
-    title: "طكة ناقص",
-    project_type: "تطبيق موبايل",
-    delivery_mode: "iOS + Android",
-    image_url: "/portfolio/Screenshot 2026-04-15 202833.png",
-    short_description:
-      "تطبيق موبايل مخصص لعرض الخدمة بشكل واضح وتجربة استخدام سهلة على iPhone وAndroid.",
-    tech_stack: "Mobile App",
-    project_url: "",
-    app_store_url:
-      "https://apps.apple.com/us/app/%D8%B7%D9%83%D8%A9-%D9%86%D8%A7%D9%82%D8%B5/id6755717702",
-    google_play_url:
-      "https://play.google.com/store/apps/details?id=com.napol.taka_naqis",
-  },
-  {
-    id: 2,
     category: "app",
     title: "Halazoon",
     project_type: "تطبيق موبايل",
@@ -32,7 +17,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=co.shopney.halazoon&hl=ar",
   },
   {
-    id: 3,
+    id: 2,
     category: "app",
     title: "مرحبا",
     project_type: "تطبيق موبايل",
@@ -48,7 +33,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=com.napoll.marhabaa&pcampaignid=web_share",
   },
   {
-    id: 4,
+    id: 3,
     category: "app",
     title: "On Field",
     project_type: "تطبيق موبايل",
@@ -63,7 +48,7 @@ export const portfolioItems = [
     google_play_url: "https://play.google.com/store/apps/details?id=com.napollll.on_fild_app&hl=en_US",
   },
   {
-    id: 5,
+    id: 4,
     category: "app",
     title: "كاك",
     project_type: "تطبيق موبايل",
@@ -78,23 +63,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=com.napol.fils&pli=1",
   },
   {
-    id: 6,
-    category: "app",
-    title: "المسار للتوصيل الداخلي السريع",
-    project_type: "تطبيق موبايل",
-    delivery_mode: "iOS + Android",
-    image_url: "/portfolio/Screenshot 2026-04-15 203735.png",
-    short_description:
-      "تطبيق توصيل داخلي سريع مع تجربة استخدام مناسبة للأجهزة المحمولة على iOS وAndroid.",
-    tech_stack: "Delivery App",
-    project_url: "",
-    app_store_url:
-      "https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6748151265?platform=iphone",
-    google_play_url:
-      "https://play.google.com/store/apps/details?id=com.napol.almasardelivery",
-  },
-  {
-    id: 7,
+    id: 5,
     category: "app",
     title: "كيمياء السادس العلمي",
     project_type: "تطبيق موبايل",
@@ -109,7 +78,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=com.napol.mchemistry&pcampaignid=web_share",
   },
   {
-    id: 8,
+    id: 6,
     category: "app",
     title: "اكاديمية الاستاذ مناف الكريطي",
     project_type: "تطبيق موبايل",
@@ -125,7 +94,7 @@ export const portfolioItems = [
       "",
   },
   {
-    id: 9,
+    id: 7,
     category: "app",
     title: "Jeras",
     project_type: "تطبيق موبايل",
@@ -140,7 +109,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=com.app.jeras",
   },
   {
-    id: 10,
+    id: 8,
     category: "app",
     title: "Redo",
     project_type: "تطبيق موبايل",
@@ -156,7 +125,7 @@ export const portfolioItems = [
       "https://play.google.com/store/apps/details?id=com.napol.rido",
   },
   {
-    id: 11,
+    id: 9,
     category: "app",
     title: "Wasalni",
     project_type: "تطبيق موبايل",
@@ -170,6 +139,20 @@ export const portfolioItems = [
       "https://apps.apple.com/us/app/wasalni-%D9%88%D8%B5%D9%84%D9%86%D9%8A/id6757957945",
     google_play_url:
       "https://play.google.com/store/apps/details?id=com.napol.wasalni",
+  },
+  {
+    id: 20,
+    category: "web",
+    title: "اساس الدقة للتجارة العامة",
+    project_type: "موقع شركة",
+    delivery_mode: "منصة تعريفية",
+    image_url: "/portfolio/Screenshot 2026-05-10 122108.png",
+    short_description:
+      "موقع لشركة اساس الدقة للتجارة العامة محدودة المسؤولية لعرض محتوى الشركة وما تقدمه من خدمات مع صفحات تعريف وتواصل.",
+    tech_stack: "واجهة عربية, عرض مشاريع, صفحات استثمار",
+    project_url: "https://asasaldiqa.com",
+    app_store_url: "",
+    google_play_url: "",
   },
   {
     id: 21,

@@ -186,7 +186,7 @@ export default function HomePage() {
           </p>
 
           <div className="contact-list">
-            <a href="tel:+9647712442505">الهاتف: 9647712442505</a>
+            <a href="tel:+9647712671185">الهاتف: 9647712671185</a>
             <span>الموقع: نعمل أونلاين في كل مكان</span>
           </div>
         </div>
